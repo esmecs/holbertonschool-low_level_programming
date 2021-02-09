@@ -1,7 +1,12 @@
 #include "holberton.h"
+/**
+ * main - print Holberton
+ *
+ * Return: to the value 0
+ */
 int main(void)
 {
-_putchar('h');
+_putchar('H');
 _putchar('o');
 _putchar('l');
 _putchar('b');
@@ -11,8 +16,5 @@ _putchar('t');
 _putchar('o');
 _putchar('n');
 _putchar('\n');
-
-return(0);
+return (0);
 }
-
-  
